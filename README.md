@@ -1,7 +1,7 @@
 # Wakishi Deer
 ## Profile
 - A graduate student at Nara Institute of Science and Technology
-- Interests: Human Computer Interaction, Communication Support, Affective Computing
+- **Interests:** Human Computer Interaction, Communication Support, Affective Computing
 
 <!--
 **Wacky2319/Wacky2319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
