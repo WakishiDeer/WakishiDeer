@@ -1,6 +1,7 @@
 # Wakishi Deer
 ## Profile
-- A graduate student at Nara Institute of Science and Technology
+- 2nd year master's student
+- Cybernatics & Reality Engineering, Nara Institute of Science and Technology, Nara, Japan
 - **Interests:** Human Computer Interaction, Communication Support, Affective Computing
 
 <!--
