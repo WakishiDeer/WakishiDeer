@@ -7,7 +7,7 @@
 ![](https://raw.githubusercontent.com/WakishiDeer/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/WakishiDeer/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
-<img src="https://wakatime.com/share/@22652e38-e772-4e2f-b087-994fcf03bf8c/c59f410a-19d9-4b54-8e97-e057185c757d.svg" style="width: 70%; height: auto;">
+<img src="https://wakatime.com/share/@22652e38-e772-4e2f-b087-994fcf03bf8c/6b6fa9fc-5579-4551-87be-aa88de055347.svg" style="width: 70%; height: auto;">
 
 <!--
 **Wacky2319/Wacky2319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
