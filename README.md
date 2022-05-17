@@ -3,6 +3,10 @@
 - 2nd year master's student
 - Cybernatics & Reality Engineering, Nara Institute of Science and Technology, Nara, Japan
 - **Interests:** Human Computer Interaction, Communication Support, Affective Computing
+
+![](https://raw.githubusercontent.com/WakishiDeer/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/WakishiDeer/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
 <img src="https://wakatime.com/share/@22652e38-e772-4e2f-b087-994fcf03bf8c/c59f410a-19d9-4b54-8e97-e057185c757d.svg" style="width: 70%; height: auto;">
 
 <!--
