@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/user/22652e38-e772-4e2f-b087-994fcf03bf8c.svg)](https://wakatime.com/@22652e38-e772-4e2f-b087-994fcf03bf8c)
 # Wakishi Deer
 ## Profile
 - 2nd year master's student
