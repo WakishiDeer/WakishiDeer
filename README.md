@@ -3,4 +3,3 @@
 
 ![](https://raw.githubusercontent.com/WakishiDeer/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@WakishiDeer/f2fef8ad-4216-4c64-a7f9-9974376f19bd.png" /></a>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@WakishiDeer/74daa622-c7d0-41b4-8c74-e880ca86caab.png" /></a>
