@@ -1,4 +1,3 @@
-[![wakatime](https://wakatime.com/badge/user/22652e38-e772-4e2f-b087-994fcf03bf8c.svg)](https://wakatime.com/@22652e38-e772-4e2f-b087-994fcf03bf8c)
 # Wakishi Deer
 
 ![](https://raw.githubusercontent.com/WakishiDeer/github-stats/master/generated/overview.svg#gh-dark-mode-only)
